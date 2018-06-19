@@ -30,7 +30,7 @@ Home.serverFetch = fetchData // static declaration of data requirements
 
 Home.propTypes = {
   circuits: PropTypes.arrayOf(PropTypes.any).isRequired,
-  fetchData: PropTypes.function.isRequired
+  fetchData: PropTypes.func
 }
 
 const mapStateToProps = (state) => ({

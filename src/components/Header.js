@@ -13,7 +13,7 @@ const Header = ({ loggedIn }) => (
 )
 
 Header.propTypes = {
-  loggedIn: PropTypes.object.isRequired
+  loggedIn: PropTypes.bool.isRequired
 }
 
 const mapStateToProps = (state) => ({
