@@ -25,7 +25,7 @@ Please, go through these steps before you submit a PR.
 
 IMPORTANT: Please review the [CONTRIBUTING.md](../CONTRIBUTING.md) file for detailed contributing guidelines.
 -->
-**Issue:** #XXXX
+**Issue reference:** closes #XXXX
 
 **Dev Checklist:**
 - [ ] Linter Pass
